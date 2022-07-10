@@ -43,7 +43,7 @@ namespace ConsoleApp1
         /// <summary>
         /// 数据库连接字段
         /// </summary>
-        static public string connectionString;
+        static public string connectionString = null;
 
 
         /// <summary>
